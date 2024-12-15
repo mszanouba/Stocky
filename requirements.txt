@@ -1,5 +1,5 @@
 fastapi==0.115.6
-uvicorn[standard]==0.33.0
+uvicorn==0.32.1
 pydantic==2.10.3
 pandas==2.2.3
 jinja2==3.1.4
@@ -10,3 +10,4 @@ matplotlib==3.9.0
 azure-storage-blob==12.24.0
 alpha_vantage==3.0.0
 nest_asyncio==1.6.0
+seaborn==0.13.2
