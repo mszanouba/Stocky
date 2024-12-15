@@ -55,7 +55,7 @@ last_date = data_blob["Date"].max()
 # In[4]:
 
 
-API_KEY = 'OYEDBWJJQM4XPHZ9'
+API_KEY = 'S6BNYAQU8PLZ2JW9'
 SYMBOL = "MSFT"
 
 def fetch_new_data(api_key, symbol, last_date):
