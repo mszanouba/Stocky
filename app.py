@@ -88,8 +88,8 @@ def update_stock_data():
     except Exception as e:
         pass
 
-START_TIME = time(19, 30)
-END_TIME = time(20, 00)     
+START_TIME = time(7, 30)
+END_TIME = time(13, 30)     
 
 TEST_MODE = False
 
